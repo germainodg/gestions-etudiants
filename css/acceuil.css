@@ -1,0 +1,152 @@
+
+
+.trai{
+    background-color: #025430f9;
+    width: 1200px !important;
+    height: 50px !important;
+}
+.logo{
+    display: flex;
+}
+.text{
+    margin: auto;
+    margin-left: 0px;
+    font-size: 1.2em;
+}
+.trois {
+     background: no-repeat url("../image/cheval.png") !important ;
+     background-size: cover !important;
+     width: 1000px !important;
+     height: 1200px !important;
+
+}
+
+.trai2{
+    background-color: yellow;
+    margin-left: 360px;
+    width: 300px !important;
+    height: 20px !important;
+}
+.auth{
+    padding-left: 370px;
+    padding-top: 250px;
+}
+
+.espace1{
+    padding-top: 100px; 
+    padding-left: 300px !important;
+}
+
+.espace2{
+    padding-top: 200px; 
+    padding-left: 300px !important;
+ 
+}
+
+.ajout{
+    padding-left: 310px !important;
+    padding-top: 50px;
+}
+
+.ajouttuteur {
+    padding-left: 250px !important;
+    padding-top: 50px;
+}
+
+.etudiant{
+    padding-left: 400px !important;
+    padding-top: 50px;
+}
+
+.ruban{
+    padding-left: 370px !important;
+   
+}
+
+
+.armorie{
+    width: 300px !important;
+    height: 150px !important;
+}
+
+.logobas {
+margin-top: 300px !important;
+padding-left: 300px !important;
+
+}
+
+.trai3{
+    background-color: #be0707;
+    margin-left: 360px;
+    width: 300px !important;
+    height: 20px !important;
+}
+
+.group {
+    padding-top: 200px;
+    padding-left: 100px;
+    display: -ms-flexbox;
+}
+
+.gestion{
+    padding-left: 150px;
+    padding-top: 250px;
+}
+
+.btn{
+    background-color: yellow;
+    color: #060600;
+}
+
+.but{
+    padding-left: 200px !important;
+}
+
+.ecrit {
+    margin-top: -120px !important;
+    padding-left: 500px !important;
+}
+.vide {
+    width: 10px;
+    height: 10px;
+    background-color: white !important;
+    
+}
+.espace {
+    width: 10px;
+    height: 10px;
+    background-color: white !important;
+}
+.grand td {
+border-left: 10px rgb(255, 255, 255) solid;
+}
+thead {
+    background-color: #025430f9!important;
+    color: white !important;
+    
+}
+.bien {
+    background-color: brown;
+    border: 10px solid white !important;
+    color: white !important;   
+}
+th {
+    background-color: #025430f9 !important;
+    margin: 10px !important;
+    border: 10px solid white !important;
+    
+}
+tbody, tr, td{
+    background-color: #d9dada;
+    border: 10px solid white !important;
+}
+footer{
+    background-color: #025430f9;
+    width: 1350px;
+    height: 150px;
+}
+
+.fin{
+    margin-top: 10px;
+   
+}
